@@ -4,7 +4,3 @@ input.addEventListener('click', function() {
   alert('I was clicked!');
 });
 }
-
-
-
-console.log(addingEventListener())
